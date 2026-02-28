@@ -15,7 +15,7 @@ def divide(a, b):
     return a / b
 
 def calculator():
-    print("Welcome to Simple Python Calculator!")
+    print("Welcome to Python Calculator!")
     print("Select operation:")
     print("1. Add")
     print("2. Subtract")
